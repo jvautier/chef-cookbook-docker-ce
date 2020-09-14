@@ -1,0 +1,8 @@
+---
+fullname: jvautier/chef-cookbook-docker-ce
+description: Install docker-ce through chef
+tags:
+  - chef
+  - chef-cookbook
+  - docker-ce
+github: {}
